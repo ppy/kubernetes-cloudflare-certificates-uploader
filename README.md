@@ -14,6 +14,6 @@ Required environment variables:
 - `SECRET_NAME` Secret of type `kubernetes.io/tls` that will be uploaded to CF
 - `ZONE_ID` Zone ID to which the certificate will be uploaded
 
-## Deployment
+## Deployment
 
 See: https://github.com/ppy/helm-charts/tree/master/osu/kubernetes-cloudflare-certificates-uploader
